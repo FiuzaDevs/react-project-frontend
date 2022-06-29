@@ -1,0 +1,18 @@
+.cityLine {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  padding: 5px;
+}
+
+.backgroundGradient{
+  background: rgb(155,172,10);
+  background: linear-gradient(90deg, rgba(155,172,10,0.47102591036414565) 30%, rgba(0,212,255,1) 90%);
+}
+
+.dot{
+  width: 10px;
+  height: 10px;
+  background: black;
+  border-radius:10px
+}
